@@ -1,5 +1,5 @@
 # bottle-socketio-example
-Example for using bottle.py with redis and socket.io.
+Example using bottle.py with redis and socket.io.
 
 ## Requirments 
  - Python
