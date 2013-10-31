@@ -41,10 +41,10 @@ Timothy.Lee a.k.a MarlboroMoo.
 Released under the [MIT License].
 
   [MIT License]: http://opensource.org/licenses/MIT "MIT License"
-  [hiredis-py]: https://github.com/redis/hiredis
-  [redis-py]: https://github.com/andymccurdy/redis-py
-  [bottle.py]: https://github.com/defnull/bottle
-  [bottle-redis]: https://github.com/bottlepy/bottle-extras/tree/master/redis
-  [gevent]: https://github.com/surfly/gevent
-  [gevent-socketio]: https://github.com/abourget/gevent-socketio
+  [hiredis-py]: https://github.com/redis/hiredis "hiredis-py"
+  [redis-py]: https://github.com/andymccurdy/redis-py "redis-py"
+  [bottle.py]: https://github.com/defnull/bottle "bottle.py"
+  [bottle-redis]: https://github.com/bottlepy/bottle-extras/tree/master/redis "bottle-redis"
+  [gevent]: https://github.com/surfly/gevent "gevent"
+  [gevent-socketio]: https://github.com/abourget/gevent-socketio "gevent-socketio"
 
