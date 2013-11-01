@@ -16,7 +16,7 @@ Example using bottle.py with redis and socket.io.
 ```sh
 sudo su -
 apt-get install python python-dev python-pip build-essential redis-server
-pip install hiredis redis bottle bottle-redis gevent gevent-socketio
+pip install hiredis redis bottle-redis gevent gevent-socketio
 ```
 ### Usage
  * Start the web server.
