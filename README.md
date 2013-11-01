@@ -1,5 +1,5 @@
 # bottle-socketio-example
-Example using bottle.py with redis and socket.io.
+Example using [bottle.py] [] with redis and [socket.io] [].
 
 ## Requirments 
  - Python
@@ -22,10 +22,10 @@ pip install hiredis redis bottle-redis gevent gevent-socketio
  * Start the web server.
 
 ```sh
-python web.py 
+python web.py
 ```
 
- * Open web browser to http://127.0.1.1:8080/  
+ * Open web browser to http://127.0.1.1:8080/
  * Push the message.
 
 ```sh
@@ -47,4 +47,5 @@ Released under the [MIT License].
   [bottle-redis]: https://github.com/bottlepy/bottle-extras/tree/master/redis "bottle-redis"
   [gevent]: https://github.com/surfly/gevent "gevent"
   [gevent-socketio]: https://github.com/abourget/gevent-socketio "gevent-socketio"
+  [socket.io]: http://socket.io "socket.io"
 
